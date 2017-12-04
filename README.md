@@ -10,4 +10,4 @@ How to launch it ?
 
 # Main Menu
 
-![alt text](https://user-images.githubusercontent.com/34235726/33550345-db489f3c-d8ed-11e7-8ac3-af1b31af2523.png)
+![alt text](https://user-images.githubusercontent.com/34235726/33551291-380d792e-d8f1-11e7-85ec-00d8e4feb083.png)
