@@ -1,8 +1,8 @@
 #!/bin/bash
 
-# Postgresql Noob Tool est un outitl très rudimentaire pour t'aider à installer facilement Postgresql sur ta machine ;)
+#postgresql_noob_tool is a very simple bash script which helps you to install and launch easily postgresql on your computer
 
-DELAY=3 # nombre de secondes pour afficher le résultat
+DELAY = 3 # nombre de secondes pour afficher le résultat
 
 while true; do
   clear
@@ -24,7 +24,6 @@ _EOF_
   if [[ $REPLY =~ ^[0-4]$ ]]; then
     case $REPLY in
       1)
-          
         echo "Connexion en tant qu'utilisateur 'postgres' :"
         su postgres
         psql -l
